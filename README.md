@@ -1,1 +1,1 @@
-# GraphicalDesignPattern
+# DesignPatternStudy
